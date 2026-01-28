@@ -108,7 +108,7 @@ text-align: left;
 }
 
 .image{
-  background-image: url(../image/Screenshot_21-1-2026_14324_www.bing.com-removebg-preview.png);
+  background-image: url(.../);
   background-size: contain;
   background-repeat: no-repeat;
   width: 200px;

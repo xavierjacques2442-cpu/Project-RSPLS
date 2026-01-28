@@ -8,7 +8,7 @@ let match = {
 
 
 
-  const apiUrl = "https://rpslspjxj26-apevc8dpdchjdqbz.westus3-01.azurewebsites.net";
+  const apiUrl = "https://calm-mud-0dc7fee10.1.azurestaticapps.net";
 function play(move) {
     match.roundsNeededToWin = parseInt(document.getElementById("rounds").value);
     fetch("/api/controllerone/play", {
