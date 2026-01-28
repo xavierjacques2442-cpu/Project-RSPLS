@@ -1,0 +1,6 @@
+@Project_RSPLS_HostAddress = http://localhost:5245
+
+GET {{Project_RSPLS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
